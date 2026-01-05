@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+storage/
+downloads/
+.env
+
+# Flutter
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+android/.gradle/
+ios/Pods/
+build/
